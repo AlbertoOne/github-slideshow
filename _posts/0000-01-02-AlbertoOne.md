@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+###### Inserte aquí su meme favorito!!
 Utiliza la flecha hacia la izquierda para volver!
